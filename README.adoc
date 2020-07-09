@@ -1,0 +1,15 @@
+= Hello there
+
+I'm a web developer at link:https://www.valwin.fr[Valwin]. I am quite fond of functional
+programming and languages such as Haskell and Elm.
+
+I also code in Scala and NodeJS in my work time.
+
+Here are some links to find me on the internet.
+
+Twitter::
+link:https://twitter.com/jutanguy[@jutanguy]
+Keybase::
+link:https://keybase.io/jtanguy[jtanguy]
+LinkedIn::
+link:https://www.linkedin.com/in/jutanguy[jutanguy]
