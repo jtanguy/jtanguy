@@ -1,6 +1,6 @@
 = Hello there
 
-I'm a web developer at link:https://www.valwin.fr[Valwin]. I am quite fond of functional
+I'm a web developer at link:https://www.sfeir.com[Sfeir]. I am quite fond of functional
 programming and languages such as Haskell and Elm.
 
 I also code in Scala and NodeJS in my work time.
